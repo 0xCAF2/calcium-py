@@ -13,7 +13,7 @@ from calciumlang.runtime import Runtime
 
 # Calcium code is given as a JSON array.
 calcium_code = [
-  [1, [], "#", "0.0.4"],
+  [1, [], "#", "0.0.5"],
   [1, [], "expr", ["call", ["var", "print"], ["Hello, World."]]],
   [1, [], "end"],
 ]
